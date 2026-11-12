@@ -1,0 +1,6 @@
+.container { width: 100%; max-width: 800px; }
+img { max-width: 100%; }
+@media (max-width: 600px) {
+  h1 { font-size: 22px; }
+  .menu { flex-direction: column; }
+}
